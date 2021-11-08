@@ -16,13 +16,14 @@ Presented in in the form of iPython Notebooks.
 # Data Science
 
 
-## 1. Twitter Sentiment 
+## 1. Twitter Sentiment  (Python)
 
 
-## 2. SAT and ACT scores analysis 
+## 2. SAT and ACT scores analysis  (Python)
+
+ 
+## 3. Ames Pricing Prediction (Python)
 
 
-## 3. Ames Pricing
-
-
-## 4. Subreddit Classifier
+## 4. Subreddit Classifier (Python)
+ 
