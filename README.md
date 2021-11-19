@@ -20,4 +20,6 @@ Presented in in the form of iPython Notebooks.
 2. SAT and ACT scores analysis  
 3. Ames Pricing Prediction 
 4. Subreddit Classifier
+5. West Nile Virus Prediction
+
  
