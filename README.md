@@ -12,7 +12,7 @@ Presented in in the form of iPython Notebooks.
 2. Data Science 
 
 # Data Analytics
-
+1. The Kardashian-Jenner sisters and Google trends
 # Data Science
 
 **Python**
