@@ -1,11 +1,10 @@
 
----
 # West Nile Virus Prediction in Cook County, Illinois
 ---
 ## Executive Summary
 
 ### Background & Problem Statement
-___
+
 West Nile Virus (WNV) was first seen in the United States in 1999. Since then,
 it has quickly spread across the Country.
 
