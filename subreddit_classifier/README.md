@@ -1,4 +1,7 @@
-# Problem Statement
+# Subreddit Classifier
+---
+
+## Problem Statement
 
 Apple and Samsung have been each other's competitor for the longest time since the birth of smart phones was released. They release new products especially smart phones every year at a specific date and time to launch their products.
 
@@ -7,7 +10,7 @@ working for a tech magazine , they would like to know from reddit what products 
 
 This project is created with supervised learning models that is trained on existing data from each Subreddit.  The best model is selected with the best accuracy and can continue to train on new data for new posts to enhance its accuracy.
 
-# Executive Summary 
+## Executive Summary 
 Every year, apple and samsung released new products and have a specific date and time on their launch day. With being the top players for smart phones, competition is indeed fierce between them. Understanding the text through NLP of two subreddits are used as starting points for classification.
 
 Data is scrapped by scrapping post from this two subreddits and then training the model on 75% of the data and subsequently the other 25% as the unseen test set to evaluate the model performance. Following models are being used:
@@ -18,7 +21,7 @@ Data is scrapped by scrapping post from this two subreddits and then training th
 
 After the training and testing, Random Forest performed the best in terms of the accuracy score. But in terms of the interpretability of the features and that it includes nearby words as well, Naive-Bayes Classifer is ultimately the model of choice for this classification problem.
 
-# Data Dictionary
+## Data Dictionary
 |Column Name| Type | Description |
 | ---| ---| ---| 
 |author| object| author of the post|
