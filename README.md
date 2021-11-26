@@ -16,7 +16,7 @@ Presented in in the form of iPython Notebooks.
 # Data Science
 
 **Python**
-1. Twitter Sentiment  
+1. Classify song genre from audio
 2. SAT and ACT scores analysis  
 3. Ames Pricing Prediction 
 4. Subreddit Classifier
