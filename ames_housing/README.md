@@ -1,4 +1,4 @@
-# Project 2: Ames Housing Predictor Model
+# Ames Housing Predictor Model
 ---
 
 ### Executive Summary
