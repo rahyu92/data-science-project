@@ -17,11 +17,12 @@ Presented in in the form of iPython Notebooks.
 # Data Science
 
 **Python**
-1. Classify song genre from audio
-2. SAT and ACT scores analysis  
-3. Ames Pricing Prediction 
-4. Subreddit Classifier
-5. West Nile Virus Prediction
-6. Comparing Prediction of Road Severity with a codeless AI platform
+
+1. SAT and ACT scores analysis  
+2. Ames Pricing Prediction 
+3. Subreddit Classifier
+4. West Nile Virus Prediction
+5. Comparing Prediction of Road Severity with a codeless AI platform
+6. Food Prediction
 
  
