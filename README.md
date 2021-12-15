@@ -13,6 +13,7 @@ Presented in in the form of iPython Notebooks.
 
 # Data Analytics
 1. The Kardashian-Jenner sisters and Google trends
+2. 
 # Data Science
 
 **Python**
@@ -21,5 +22,6 @@ Presented in in the form of iPython Notebooks.
 3. Ames Pricing Prediction 
 4. Subreddit Classifier
 5. West Nile Virus Prediction
+6. Comparing Prediction of Road Severity with a codeless AI platform
 
  
