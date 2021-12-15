@@ -8,7 +8,7 @@ With a provided sample data from the previous year, they would like the followin
 
 # Data Dictionary
 
-Data dictionary can be found in the data folder in the data_lookup file.
+Data dictionary can be found via [link](https://github.com/rahyu92/data-science-project/blob/main/capstone/data/road-safety-lookups.csv).
 Following new features are added:
 
 Column Name| Type| Description|
