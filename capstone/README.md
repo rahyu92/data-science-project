@@ -2,7 +2,7 @@
 
 Big industry players that provided cloud computing services such as Amazon and Google have been releasing codeless AI platform lately where machine learning models can be created by few clicks. With
 such technology available, this disrupts the industry and the department is interested in looking whether it is worth expanding in such services provided. 
-Currently the departmentis in the midst of expanding the infrastructure and looking at services and platform to be included that will benefit the data science team.
+Currently the department are still using legacy system and in the midst of expanding the infrastructure while also looking at services to be included that will benefit the data science team.
 
 With a provided sample data from the previous year, they would like the following outcome to further expedite their decision:
 1.   Supervised classification model in classifying the accident severity and compare the outcome together with a codeless AI platform 
