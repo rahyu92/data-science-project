@@ -22,7 +22,7 @@ Coords | Object| Coordinates from latitude and longitude|
 
 # Dashboard created with Data Studio
 
-
+![alt text](https://github.com/rahyu92/data-science-project/blob/main/capstone/code/dashboard_image.PNG)
 
 This is one of the services that google provided which enables many users to view and collaborate at the same time.
 To access and interact with the dashboard, please click on  [link](https://datastudio.google.com/reporting/7ad8ff1d-6f16-401f-ad59-c178c760a0d0)
