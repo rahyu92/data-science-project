@@ -12,17 +12,18 @@ Presented in in the form of iPython Notebooks.
 2. Data Science 
 
 # Data Analytics
+**Python**
 1. The Kardashian-Jenner sisters and Google trends
-2. 
+2. Reporting on Sales data
+3. SAT and ACT scores analysis for Illinois  
 # Data Science
 
 **Python**
 
-1. SAT and ACT scores analysis  
-2. Ames Pricing Prediction 
-3. Subreddit Classifier
-4. West Nile Virus Prediction
-5. Comparing Prediction of Road Severity with a codeless AI platform
-6. Food Prediction
-
+1. Ames Pricing Prediction 
+2. Subreddit Classifier
+3. West Nile Virus Prediction
+4. Comparing Prediction of Road Severity with a codeless AI platform
+5. Food Prediction
+6. Telco Customer Churn
  
