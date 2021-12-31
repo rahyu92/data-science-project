@@ -14,7 +14,9 @@ Presented in in the form of iPython Notebooks.
 # Data Analytics
 **Python**
 1. The Kardashian-Jenner sisters and Google trends
-2. Reporting on Sales data
+2. Reporting on Sales data:
+    - Part of DataCamp Competition 
+    - [Tableau Link](https://public.tableau.com/views/ReportingSalesDataonMotorcycleParts/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link)
 3. SAT and ACT scores analysis for Illinois  
 # Data Science
 
