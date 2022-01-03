@@ -10,11 +10,12 @@ Presented in in the form of iPython Notebooks.
 
 ## Data Analytics
 **Python**
-1. [The Kardashian-Jenner sisters and Google trends](https://github.com/rahyu92/data-science-project/blob/main/Kardashian_Sisters_Google_Trends/The%20Kardasian-Jenner%20sisters%20and%20Google%20Trends.ipynb)
-2. [Reporting on Sales data](https://github.com/rahyu92/data-science-project/blob/main/Reporting%20Sales%20Data/Reporting%20data%20sales%20on%20Motorcycle%20Part.ipynb):
+1. [The Kardashian-Jenner sisters and Google trends:](https://github.com/rahyu92/data-science-project/blob/main/Kardashian_Sisters_Google_Trends/The%20Kardasian-Jenner%20sisters%20and%20Google%20Trends.ipynb)
+    - Analysis on Kardashia-Jenners on a timeframe from Google trends to see their trends overtime and who is the famous sister
+3. [Reporting on Sales data](https://github.com/rahyu92/data-science-project/blob/main/Reporting%20Sales%20Data/Reporting%20data%20sales%20on%20Motorcycle%20Part.ipynb):
     - Part of DataCamp Competition to provide findings and report on sales on motorcycle parts 
     - [Tableau Report Link](https://public.tableau.com/views/ReportingSalesDataonMotorcycleParts/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link)
-3. Telco Customer Churn: 
+4. Telco Customer Churn: 
     - Analysis and findings on a telco provider regarding customer churn
     - [Tableau Report Link](https://public.tableau.com/views/TelcoChurnReport/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 ## Data Science
