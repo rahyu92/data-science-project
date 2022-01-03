@@ -4,7 +4,7 @@
 This are the repository containing my portfolio of data science and data analytics projects completed by me for academic and self learning purposes.
 Presented in in the form of iPython Notebooks.
 
-*Note: Data used in the projects (accessed under data directory) is for demonstration purposes only.*
+*Note: Data used in the projects is for demonstration purposes only.*
 
 # Contents
 
@@ -21,12 +21,12 @@ Presented in in the form of iPython Notebooks.
 
 **Python**
 
-1. Ames Pricing Prediction 
-2. Subreddit Classifier
+1. Ames Pricing Prediction: 
+2. Subreddit Classifier:
 3. West Nile Virus Prediction:
 4. [Comparing Prediction of Road Severity with a codeless AI platform using MLaaS:](https://github.com/rahyu92/data-science-project/tree/main/capstone)
      - An experiment project to compare from a MLaaS and best of supervised classification machine learning model output from pycaret 
      - [DataStudio Report Link](https://datastudio.google.com/reporting/7ad8ff1d-6f16-401f-ad59-c178c760a0d0)
 
-5.  Food Prediction
+5.  Food Prediction:
 
