@@ -34,9 +34,9 @@ Google cloud platform provide many services that allows users to perform many bu
 
 Model| Precision Score| F1 Score| ROC AUC|
 --|--|--|--|
+Light Gradient Boosting Machine(Train)|	62.94%|	0.3388	|0.7085|	0.6954	|
+Light Gradient Boosting Machine(Test)	0.6588	|0.3389|	0.7455|	0.6899	|
 Vertex AI| 78.5% | 78.4%91%| 91% |
-
-
 
 Based on this experiment, Vertex AI have provided better outcomes having Precision 78.5% Recall, F1 Score 78.4%91% and 91% ROC AUC as compared to best model from pycaret 
 
