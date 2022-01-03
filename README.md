@@ -8,17 +8,17 @@ Presented in in the form of iPython Notebooks.
 
 # Contents
 
-1. Data Analytics
-2. Data Science 
-
-# Data Analytics
+## Data Analytics
 **Python**
 1. The Kardashian-Jenner sisters and Google trends
 2. [Reporting on Sales data](https://github.com/rahyu92/data-science-project/blob/main/Reporting%20Sales%20Data/Reporting%20data%20sales%20on%20Motorcycle%20Part.ipynb):
     - Part of DataCamp Competition 
     - [Tableau Link](https://public.tableau.com/views/ReportingSalesDataonMotorcycleParts/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link)
-3. SAT and ACT scores analysis for Illinois  
-# Data Science
+3. SAT and ACT scores Analysis for Illinois 
+4. Telco Customer Churn Analysis
+    - [Tableau Link] ()
+  
+## Data Science
 
 **Python**
 
@@ -27,5 +27,4 @@ Presented in in the form of iPython Notebooks.
 3. West Nile Virus Prediction
 4. Comparing Prediction of Road Severity with a codeless AI platform
 5. Food Prediction
-6. Telco Customer Churn
- 
+
