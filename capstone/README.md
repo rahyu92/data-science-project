@@ -32,20 +32,19 @@ To access and interact with the dashboard, please click on  [link](https://datas
 
 Google cloud platform provide many services that allows users to perform many business activities just by clicks away with data that can be retrieved remotely. Users in any department can make business decisions from creating visualizations dashboard for analytics ,machine learning models, storing of documents and database all using the same services.
 
-Model| Precision Score| F1 Score| ROC AUC|
---|--|--|--|
-Light Gradient Boosting Machine(Train)|	62.94%|	0.3388	|0.7085|	0.6954	|
-Light Gradient Boosting Machine(Test)	0.6588	|0.3389|	0.7455|	0.6899	|
-Vertex AI| 78.5% | 78.4%91%| 91% |
+Model|  ROC AUC| Recall|  Precision | F1 Score|
+--|--|--|--|--|
+Light Gradient Boosting Machine(Train)|	62.94%|	33.8%|70.8%|	69.5%	|
+Light Gradient Boosting Machine(Test)	| 65.9%	|33.9%|	74.5%|	68.9%	|
+Vertex AI| 91%| 38.4% | 78.5%| 78.4%|
 
-Based on this experiment, Vertex AI have provided better outcomes having Precision 78.5% Recall, F1 Score 78.4%91% and 91% ROC AUC as compared to best model from pycaret 
+Based on this experiment, Vertex AI have provided better outcomes having Precision 78.5% Recall, F1 Score 78.4%91% and 91% ROC AUC as compared to best model from pycaret where the training model is only at 70.8% for Precision and 69.5% F1 score at their best. 
 
-However, there seems to be limitations in using Vertex AI, a MLaaS provided by Google. Using AutoML model have limited selection in creating pipeline and there is no transparency and visibility what was in the process and consideration of the model to provide the outcome. Even if the outcome is good, it may not always be accurate or fit the objective of the experiment. They also have different price point per node for different model type  [(Link for pricing of Vertex AI)](https://cloud.google.com/vertex-ai/pricing#video-data). This price does not include other related services such as Kubernetes where users can used to also deploy customize pipeline and to test prediction models online . If not careful on the hours,number of nodes concurrently used and usage of other related services, it is possible that the department will spend too much money just on using such services.
+However, there seems to be limitations in using Vertex AI, a MLaaS provided by Google. Using AutoML model have limited selection in creating pipeline and there is no transparency and visibility what was in the process and consideration of the model to provide the outcome. Even if the outcome is good, it may not always be accurate or fit the objective of the experiment. They also have different price point per node for different model type  [(Link for pricing of Vertex AI)](https://cloud.google.com/vertex-ai/pricing#video-data). This price does not include other related services such as Kubernetes needed where users can can deploy exisitng model to allow prediction models online . If not careful on the hours,number of nodes concurrently used and usage of other related services, it is possible that the department will spend too much money just on using such services.
+
+# Recommendations
 
 
-To enable such selection, a custom model is required to be deployed in a container that consist of existing python training application using libraries such as tensorflow.
+As using python libraries such as PyCaret allows to save model which saves the entire transformation pipeline, the suggestion will be to still use a python library to create a data science model and deploy the pipeline of this models in a kubernetes container where such services is provided by Google so online prediction can be made from many users concurrently and also use this deployed model for custom training where more features such as hypertuning is enabled as compared to AutoML. This also allows data scientist and analyst in the department to have transparency and control in what goes to the model that best fit their objective without having to constantly load AutoML models not knowing whether it will work or not which can be really expensive. 
 
-As using python libraries such as PyCaret allows to save model which saves the entire transformation pipeline, the suggestion will be to still use a python library to create a data science model and  load this model in a kubernetes container in using provided service by google or other cloud computing services so online prediction can be made from many users and also use this loaded model for custom training. This also allows data scientist and analyst to have transparency and control in what goes to the model.
-
-Creating machine learning models from Python libraries allow data scientist to enhance their experiment by knowing what was done and parameters selected comparing to a codeless machine that shows only outcomes of the model and have limited selection. Still, cloud services are beneficial to the team as many users can collaborate and work together with resources provided online with all this services availale.
-
+Creating machine learning models from Python libraries allow data scientist and analyst to enhance their experiment by knowing what was don to the model and parameters selected comparing to a codeless machine that shows only outcomes of the model and have limited selection. Still, such cloud services are beneficial to the team as many users can collaborate and work together with resources provided online.
