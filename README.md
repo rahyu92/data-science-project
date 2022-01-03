@@ -21,11 +21,11 @@ Presented in in the form of iPython Notebooks.
 
 1. Ames Pricing Prediction 
 2. Subreddit Classifier
-3. West Nile Virus Prediction
-4. [Comparing Prediction of Road Severity with a codeless AI platform using MLaaS](https://github.com/rahyu92/data-science-project/tree/main/capstone)
+3. West Nile Virus Prediction:
+4. [Comparing Prediction of Road Severity with a codeless AI platform using MLaaS:](https://github.com/rahyu92/data-science-project/tree/main/capstone)
      - An experiment project to compare supervised classification output from a MLaaS and best model from pycaret 
      - [DataStudio Report](https://datastudio.google.com/reporting/7ad8ff1d-6f16-401f-ad59-c178c760a0d0)
-4. Telco Customer Churn 
+4. Telco Customer Churn: 
     - [Tableau Link](https://public.tableau.com/views/TelcoChurnReport/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 5.  Food Prediction
 
