@@ -15,8 +15,7 @@ Presented in in the form of iPython Notebooks.
     - Part of DataCamp Competition 
     - [Tableau Link](https://public.tableau.com/views/ReportingSalesDataonMotorcycleParts/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link)
 3. SAT and ACT scores Analysis for Illinois 
-4. Telco Customer Churn Analysis
-    - [Tableau Link] ()
+
   
 ## Data Science
 
@@ -25,6 +24,10 @@ Presented in in the form of iPython Notebooks.
 1. Ames Pricing Prediction 
 2. Subreddit Classifier
 3. West Nile Virus Prediction
-4. Comparing Prediction of Road Severity with a codeless AI platform
-5. Food Prediction
+4. Comparing Prediction of Road Severity with a codeless AI platform using MLaaS
+     - An experiment project to compare supervised classification output from a MLaaS and pycaret 
+     - [DataStudio Report](https://datastudio.google.com/reporting/7ad8ff1d-6f16-401f-ad59-c178c760a0d0)
+4. Telco Customer Churn 
+    - [Tableau Link](https://public.tableau.com/views/TelcoChurnReport/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+5.  Food Prediction
 
