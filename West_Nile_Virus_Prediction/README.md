@@ -1,7 +1,6 @@
 
 # West Nile Virus Prediction in Cook County, Illinois
 ---
-## Executive Summary
 
 ### Background & Problem Statement
 
