@@ -26,7 +26,8 @@ Presented in in the form of iPython Notebooks.
 2. Subreddit Classifier:
 3. West Nile Virus Prediction:
 4. [Comparing Prediction of Road Severity with a codeless AI platform using MLaaS:](https://github.com/rahyu92/data-science-project/tree/main/capstone)
-     - An experiment project to compare from a MLaaS and best of supervised classification machine learning model output from pycaret 
+     - An experiment project to compare output from a MLaaS and best of supervised classification machine learning model output from pycaret 
+     - GCP is used in this project. Tools used: Vertex AI, BigQuery, DataStudio.
      - [DataStudio Report Link](https://datastudio.google.com/reporting/7ad8ff1d-6f16-401f-ad59-c178c760a0d0)
 
 5.  Food Prediction:
