@@ -33,7 +33,7 @@ Presented in in the form of iPython Notebooks.
      - GCP is used in this project.  Tools used: Vertex AI, BigQuery, DataStudio, Cloud Storage.
      - [DataStudio Report Link](https://datastudio.google.com/reporting/7ad8ff1d-6f16-401f-ad59-c178c760a0d0)
 
-5.  [Food Prediction Churn Prediction and Text Classifer from Reviews](https://github.com/rahyu92/data-science-project/tree/main/food_delivery):
+5.  [Food Delivery Churn Prediction and Text Classifer from Reviews](https://github.com/rahyu92/data-science-project/tree/main/food_delivery):
     - Two models created from a survey data to predict if customer will order again and also the most used words where customers will not reorder again
     - Pycaret,NLP,Logistic Regression, Mulinomial
     - Prediction model is deployed in AWS S3 bucket
