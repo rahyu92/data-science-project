@@ -4,7 +4,7 @@
 This are the repository containing my portfolio of data science and data analytics projects completed by me for academic and self learning purposes.
 Presented in in the form of iPython Notebooks.
 
-*Note: Data used in the projects is for demonstration purposes only.*
+*Note: Data used in the projects are for demonstration purposes only.*
 
 # Contents
 
